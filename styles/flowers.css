@@ -1,0 +1,278 @@
+/* sheard related syyle */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #E554731A;
+    width: 100%;
+    height: 500px;
+    padding: 50px 50px 0im;
+  
+}
+.test{
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.header-title{
+    color: #272727;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+}
+.header-left{
+width: 500px; 
+}
+.header-right{
+    padding-top: 30px;
+}
+.btn-primary{
+    color: #FFFFFF;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+/* Featured flowers style */
+.Featured-flowers-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+   
+    
+
+}
+.Featured-flowers-background{
+    background: #FFF;
+    margin: 50px;
+  
+}
+.Featured-flower{
+    width: 100%;
+    height: 467px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Featured-flowers-description{
+    color: rgba(39, 39, 39, 0.6);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.flowers1{
+    margin: 30px;
+}
+.flowers-img{
+    border-radius: 300px 300px 0px 0px;
+    margin-bottom: 0;
+    background: #e9d5df;
+    height: 350px;
+    width: 240px;
+    padding: 50px 50px 0px 50px;
+}
+.flowres2{
+    margin: 30px;
+}
+.flowers-img2{
+    border-radius: 300px 300px 0px 0px;
+    background: #d1e7e8;
+    background-position: center;
+    height: 350px;
+    width: 240px;
+    padding: 50px 50px 0px 50px; 
+}
+.flowers3{
+    margin: 30px;
+}
+.flowers-img3{
+    border-radius: 300px 300px 0px 0px;
+    background: #dbd3de; 
+    margin-bottom: 0px; 
+    height: 350px;
+    width: 240px;
+    padding: 50px 50px 0px 50px;      
+}
+/* flowers-group style */
+.flowers-group{
+    background-color: #EBEBEB;
+    display: flex;
+    height: 300px;
+    padding: 0px 200px 0px 200px;
+    margin: auto;
+    margin-bottom: 100px;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    border-radius: 10px;
+  
+}
+
+.flowers-group1{
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+   
+    
+}
+.flowers-group2{
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+}
+.flowers-group3{
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+}
+/* flowers offer style */
+.flowers-offer{
+    background: #E554730D;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  
+}
+.flowers-offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.img{
+    margin: 100px;
+}
+
+.offer{
+    color:#E55473;
+
+}
+
+.flowers-offer{
+    text-align: center;
+}
+
+
+/* flowers-instragram-page */
+.flowers-instragram-page{
+    background:  #FFF;
+   
+}
+.Instagram-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.Instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.Instagram-img{
+    display: flex;
+    width: 100%;
+    height: 396px;
+    align-items: center;
+   justify-content: center;
+}
+.Instagram-img1{
+    margin: 10px;
+    width: 250px;
+}
+.Instagram-img2{
+    margin: 10px;
+    width: 250px; 
+}
+.Instagram-img3{
+    margin: 10px;
+    width: 250px;
+}
+.Instagram-img4{
+    margin: 10px;
+    width: 250px;
+}
+/* flowers Latest Deals  */
+.flowers-Latest-Deals{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} 
+.Latest-deals{
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    
+    width: 1076px;
+    height: 300px;
+    background-size: cover;
+    align-items: center;
+    
+    
+}
+.email-from{
+    border: none;
+    border-radius: 5px;
+}
+.latest-deals-title{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 43px;
+   
+}
+.flowers-deals-description{
+    text-align: center;
+   
+}
+.flowers-latest-from{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+    
+}
+.email-from{
+    margin-right: 5px;
+    width: 400px;
+    height: 30px;
+}
+.flowers-Latest-Deals{
+    margin-top: 40px;
+}
+/* flowers shop footer style */
+.footer-bacground{
+    background: #111010;
+    width: 100%;
+    height: 300px;
+    margin-top: 75px;
+}
+.fotter-titel{
+    color: #FFF;
+    font-size: 43px;
+    text-align: center;
+    padding-top: 45px;
+}
+.fotter-titel-color{
+color: #E55473;;
+}
+.fotter-description{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.footer-copy{
+    color: rgba(255, 255, 255, 0.40);    
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
